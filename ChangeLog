@@ -1,0 +1,51 @@
+Every Addition and Changes made on my website shall be documented and listed here 
+
+Lonke's Lounge ChangeLog 
+
+Part 1 (HTML)
+
+Created a Home Page (index.html) containing a banner, navigation system and a welcome page
+Created a About Page (about.html) containing information regarding the creation and motivation behind Lonke's Lounge
+Created a Services Page (services.html) containing 3 sections of services
+- PC Gaming
+- Consoles Zone
+- Tournaments
+Implemented a leaderboard on the Services Page consisting of a player's rank, name, and game.
+Implemented a Pricing Table on the Services Page consisting of a the half a day, a full day, and private sessions rate
+Created a Enquiry Form Page (enquiry.html) containing a interactive form with Email, Full name, Enquiry Type, and Message box.
+Created a Contact Page (contact.html) containing the business's email, phone number, and address.
+
+Part 2 (CSS)
+
+* Global
+- Fonts, colors, spacing, and backgrounds that are purple and navy were added 
+
+* Banner
+- A Custom made banner image was created and placed on the website.
+- Each device has their own banner height (desktop, mobile, tablets).
+
+* Navigation 
+- Horizontel Navigation system with glow and shadow styling were implemented. 
+- Hamburger menu for mobile devices were added for easier navigation.
+- A DropDown animation were added with a max height transition.
+
+* Services Page
+- The basic cards for services were replaced with 3 large services block with a hover and glowing effect including the pricing, event,consoles or pc used, and games available
+- Pricing table was styled to fit the theme of the site including hover effects
+- Leaderboard table was styled to fit the theme of the site including hover effects 
+- Mobile devices use a scrollable container to interact with tables 
+
+* Responsiveness
+- 3 Services blocks in a row for Desktop
+- 2 Service blocks in a row for Tablets
+- 1 Service blocks in a row for mobile
+- Banner height adjucts according to each device
+- Tables scroll horizontally for small screens to avoid overflows
+
+JavaScript was implemented for the responsiveness and effectiveness of the burger menu dropdown for mobile devices 
+
+Part 3 JavaScript (To Be Continued)
+
+*Summary 
+Part 1 - 5 HTML pages were made containing information and interactive links 
+Part 2 - CSS was implemented for the theme and interactiveness of the websites for desktop, tablets, and mobile devices. 
