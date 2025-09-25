@@ -26,13 +26,13 @@ ZA Domains. (2025). Domain registration pricing. Available at: https://www.zadom
 Referrences (Part 2)
 
 Mozilla Developer Network (2024). CSS: Cascading Style Sheets. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS
- [Accessed 24 Sept. 2025].
+ [Accessed 20 Sept. 2025].
 
 W3Schools (2024). CSS Responsive Web Design. Available at: https://www.w3schools.com/css/css_rwd_intro.asp
- [Accessed 24 Sept. 2025].
+ [Accessed 22 Sept. 2025].
 
 Figma (2024). Getting started with wireframing. Available at: https://help.figma.com/hc/en-us/articles/360040528654-Create-wireframes-in-Figma
- [Accessed 24 Sept. 2025].
+ [Accessed 22 Sept. 2025].
 
 Smashing Magazine (2023). The Principles of Responsive Web Design. Available at: https://www.smashingmagazine.com/guides/responsive-web-design
- [Accessed 24 Sept. 2025].
+ [Accessed 23 Sept. 2025].
