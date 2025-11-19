@@ -36,3 +36,41 @@ Figma (2024). Getting started with wireframing. Available at: https://help.figma
 
 Smashing Magazine (2023). The Principles of Responsive Web Design. Available at: https://www.smashingmagazine.com/guides/responsive-web-design
  [Accessed 23 Sept. 2025].
+
+ References (Part 3)
+
+Mozilla. 2025. JavaScript Guide – MDN Web Docs. Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+ [Accessed: 6 November 2025].
+
+Mozilla. 2025. Document Object Model (DOM) – MDN Web Docs. Available at: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+ [Accessed: 6 November 2025].
+
+Mozilla. 2025. addEventListener() – MDN Web Docs. Available at: https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
+ [Accessed: 6 November 2025].
+
+Mozilla. 2025. Fetch API – MDN Web Docs. Available at: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+ [Accessed: 6 November 2025].
+
+W3Schools. 2025. HTML5 Form Validation. Available at: https://www.w3schools.com/html/html_form_validation.asp
+ [Accessed: 8 November 2025].
+
+RegExLib. 2024. South African Mobile Number Regular Expression. Available at: https://regexlib.com/Search.aspx?k=south+africa+phone
+ [Accessed: 8 November 2025].
+
+Formspree. 2025. Formspree Documentation. Available at: https://formspree.io
+ [Accessed: 9 November 2025].
+
+Google Developers. 2025. Robots.txt Specifications. Available at: https://developers.google.com/search/docs/crawling-indexing/robots/create-robots-txt
+ [Accessed: 9 November 2025].
+
+Sitemaps.org. 2025. XML Sitemap Protocol. Available at: https://www.sitemaps.org/protocol.html
+ [Accessed: 10 November 2025].
+
+Google Developers. 2025. SEO Starter Guide. Available at: https://developers.google.com/search/docs/fundamentals/seo-starter-guide
+ [Accessed: 10 November 2025].
+
+Mozilla. 2025. Responsive Design – MDN Web Docs. Available at: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design
+ [Accessed: 11 November 2025].
+
+W3Schools. 2025. How To Create a Lightbox. Available at: https://www.w3schools.com/howto/howto_js_lightbox.asp
+ [Accessed: 12 November 2025].
