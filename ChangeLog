@@ -44,11 +44,51 @@ Part 2 (CSS)
 
 JavaScript was implemented for the responsiveness and effectiveness of the burger menu dropdown for mobile devices 
 
-Part 3 JavaScript (To Be Continued)
+Part 3 (JavaScript) 
 
-Changes that were made regarding Part 1's feedback
+* Home Page
+- A message shall pop up automatically regarding future events (currently set to: New Tournaments coming soon! Stay Tuned!)
+
+* Enquiry Form
+Validates the following:
+- Name (not empty) 
+- Email (correct format)
+- Phone (south African Format)
+- Message ( 10 characters min)
+- in the case of incorrections, alerts shall display to help the user
+
+* Contact Page
+- Sumbits real enquiries
+- issue alerts for success, error and network were added
+- After successfully submitting, the form shall reset
+
+* Leaderboard
+- The player who place in the top shall be highlighted green for 3 seconds
+- Transition to original theme colors are kept smooth for user experience
+
+* Service Page 
+Image Lightbox
+- A fullscreen preview is displayed when a service is clicked on
+- In order to close this the user has the option to click outside of the area or on the X displayed
+
+* Seo Enhancements 
+- A professional <title> tag and a unique <meta name = "description"> 
+
+* Other changes
+- robot txt was added 
+- Alt Text were added for all images
+- a sitemap.xml was added (including: index, about, services, contact, enquiry)
+- Proper heading structure (h1 per page)
+- Footer adjusts itself for mobile and tablet
+- The height of the banner were corrected for multiple breakpoints
+- fixed overflow issues for navigation
+- Minor CSS conflicts were fixed after testing
+- No broken links or errors from JavaScript
+
+* Changes that were made regarding overall feedback
 A Changelog and Wireframes were added for the Website
 
 *Summary 
 Part 1 - 5 HTML pages were made containing information and interactive links 
 Part 2 - CSS was implemented for the theme and interactiveness of the websites for desktop, tablets, and mobile devices. 
+Part 3 - JavaScript was implemented to ensure the responsiveness and high quality user experience of the website for users.
